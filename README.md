@@ -21,3 +21,4 @@ $ export PATH=$PATH:$HOME/.gem/bin
 $ bundler install
 $ bundle exec jekyll serve
 ```
+https://mybinder.org/v2/gh/sietskev/jupyter.git/HEAD
